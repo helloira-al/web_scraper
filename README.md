@@ -1,6 +1,6 @@
 <h4>Hacker News Scraper</h4>
 
-The code in this repository scrapes the first 2 pages of https://news.ycombinator.com/ for posts that have 200 or more votes.
+The code in this repository scrapes the first 2 pages of https://news.ycombinator.com/ for posts that have more than 199 votes.
 
 The below features to be coming soon:
 <ul>
